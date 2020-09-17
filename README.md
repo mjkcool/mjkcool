@@ -6,7 +6,7 @@
 
 ## Completed projects
 * <a href=https://github.com/mjkim0206/DesserCafe-management-program>Dessert Cafe</a> made by Java
-* <a href=https://github.com/mjkim0206/WebGame-WorldDayGame2019>World Day game made by HTML/CSS/JS
+* <a href=https://github.com/mjkim0206/WebGame-WorldDayGame2019>World Day game</a> made by HTML/CSS/JS
 
 <!--
 **mjkim0206/mjkim0206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
