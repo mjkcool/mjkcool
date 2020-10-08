@@ -5,9 +5,6 @@
 뿐만 아니라 책상에 앉아 코드를 보는 것보다 신체를 움직이는 활동이 더 좋습니다.<br>
 하지만 저는 개발자의 길을 택했고, 진정 제가 좋아하던 일이 아니기에 더욱 본업으로써 집중할 수 있기에 만족합니다.<br>
 
-## Completed projects
-* <a href=https://github.com/mjkim0206/DesserCafe-management-program>Dessert Cafe</a> made by Java
-* <a href=https://github.com/mjkim0206/WebGame-WorldDayGame2019>World Day game</a> made by HTML/CSS/JS
 
 <!--
 **mjkim0206/mjkim0206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
