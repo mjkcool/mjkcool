@@ -1,6 +1,8 @@
 #### 안녕하세요! 제 깃허브에 방문해주셔서 영광입니다 👋
 
-<img src="https://user-images.githubusercontent.com/53461080/100521872-d07e2100-31e9-11eb-922e-673d5cc2325f.jpg" onclick="window.open('https://www.youtube.com/watch?v=UOxkGD8qRB4', '_blank')" width="200px"> <img src="https://user-images.githubusercontent.com/53461080/100521834-7715f200-31e9-11eb-9772-d21c8e856065.jpg" onclick="window.open('https://www.youtube.com/watch?v=RkID8_gnTxw', '_blank')" width="200px">
+
+### 🎧 My favorites
+<a href="https://www.youtube.com/watch?v=UOxkGD8qRB4"><img src="https://user-images.githubusercontent.com/53461080/100521872-d07e2100-31e9-11eb-922e-673d5cc2325f.jpg" width="150px" target="_blank"></a> <a href="https://www.youtube.com/watch?v=RkID8_gnTxw"><img src="https://user-images.githubusercontent.com/53461080/100521834-7715f200-31e9-11eb-9772-d21c8e856065.jpg" width="150px" target="_blank"></a>
 
 
 <!--
