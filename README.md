@@ -1,4 +1,4 @@
-### 🥳 Nice meet you guys! This is my home, please take off your shoes here, haha *in korean house*
+### Nice meet you guys! This is my home, please take off your shoes here, haha *in korean house*
 <!-- --- 
 ### ⚡ Skills
 * Language
