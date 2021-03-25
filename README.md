@@ -13,7 +13,7 @@
 -->
  
  
- [![mjkcool's github stats](https://github-readme-stats.vercel.app/api?username=mjkcool)](https://github.com/mjkcool/github-readme-stats)
+ [![mjkcool's github stats](https://github-readme-stats.vercel.app/api?username=mjkcool&theme=nord&show_icons=true)](https://github.com/mjkcool/github-readme-stats)
 
 
 
