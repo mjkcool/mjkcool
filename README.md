@@ -1,20 +1,21 @@
-<!--### Nice meet you guys! This is my home, please take off your shoes here, haha
+
 
 ### ⚡ Skills
 * Language
-  * Googling
-  * HTML5
+  * HTML5 & CSS
+  * JavaScript
   * JAVA
-  * C, C#
+  * C, C#, C++
   * Python
-  * Unity
 * Framework & Tools
   * Unity
--->
- 
- 
- [![mjkcool's github stats](https://github-readme-stats.vercel.app/api?username=mjkcool&theme=nord&show_icons=true)](https://github.com/mjkcool/github-readme-stats)
+  * Django
+  * Node.js
+  * Springboot
+  
+[![mjkcool's github stats](https://github-readme-stats.vercel.app/api?username=mjkcool&theme=nord&show_icons=true)](https://github.com/mjkcool/github-readme-stats)
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjkcool&layout=compact)](https://github.com/mjkcool/github-readme-stats)
 
 
 <!--
