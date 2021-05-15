@@ -2,11 +2,11 @@
 
 ### ⚡ Skills
 * Language
-  * HTML5 & CSS
   * JavaScript
   * JAVA
   * C, C#, C++
   * Python
+  * HTML5 & CSS
 * Framework & Tools
   * Unity
   * Django
