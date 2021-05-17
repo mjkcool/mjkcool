@@ -8,7 +8,7 @@
   * Python
   * HTML5 & CSS
   * JSP
-* Framework & Library & Tools
+* Framework/Library/Tools
   * Unity
   * Django
   * Node.js
